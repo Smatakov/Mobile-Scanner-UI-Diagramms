@@ -1,0 +1,183 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="_WRxGhEKccHYE9Oim41X">
+    <mxGraphModel dx="2241" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-9" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BkuoeZ50e4-eeGBDM2wB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-10" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BkuoeZ50e4-eeGBDM2wB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-11" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BkuoeZ50e4-eeGBDM2wB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-12" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BkuoeZ50e4-eeGBDM2wB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-46" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BkuoeZ50e4-eeGBDM2wB-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Сотрудник склада" vertex="1">
+          <mxGeometry height="60" width="30" x="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBFFEA;strokeColor=#82b366;shadow=1;" value="Цель 1 - Быстро получать поставки" vertex="1">
+          <mxGeometry height="60" width="120" x="-135" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBFFEA;strokeColor=#82b366;shadow=1;" value="Цель 2 - Точно принимать товары" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBFFEA;strokeColor=#82b366;shadow=1;" value="Цель 4 - Передача результатов" vertex="1">
+          <mxGeometry height="60" width="120" x="505" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBFFEA;strokeColor=#82b366;shadow=1;" value="Цель 4 - Работать даже без интернета" vertex="1">
+          <mxGeometry height="60" width="120" x="705" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-17" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="BkuoeZ50e4-eeGBDM2wB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" value="Управление&lt;div&gt;поставками&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="110" x="-130" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-18" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="BkuoeZ50e4-eeGBDM2wB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" value="Приемка товаров&lt;div&gt;(сканирование)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="110" x="65" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-19" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" value="Передача результатов в учетную&amp;nbsp;&lt;div&gt;систему&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="110" x="510" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-20" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" value="Офлайн работа&lt;div&gt;и синхронизация&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="110" x="710" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-34" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="BkuoeZ50e4-eeGBDM2wB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-43" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" target="BkuoeZ50e4-eeGBDM2wB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-58" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="US_1&lt;div&gt;как сотрудник склада я хочу видеть список поставок чтобы выбрать нужную приемку&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="-180" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-33" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-35" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-60" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="US_3&lt;div&gt;Как сотрудник склада я хочу сканировать товары чтобы автоматически увеличивать принятое кол-во&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="40" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-61" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="US_4&lt;div&gt;Как сотрудник склада я хочу видеть прогресс приемки по каждому товару и по всей поставке&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="140" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-37" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="BkuoeZ50e4-eeGBDM2wB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-64" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="US_7&lt;div&gt;Как сотрудник склада я хочу отправлять результаты приемки чтобы обновить остатки в учетной системе&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="470" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-39" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-65" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="US_8&lt;div&gt;Как сотрудник склада я хочу получить подтверждение успешной передачи данных&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="570" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-40" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="BkuoeZ50e4-eeGBDM2wB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-66" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="US_9&lt;div&gt;Как сотрудник склада я хочу работать офлайн чтобы продолжать приемку при отсутсвие интернета&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="670" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-41" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="BkuoeZ50e4-eeGBDM2wB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-67" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="US_10&lt;div&gt;Как сотрудник склада я хочу чтобы данные синхронизировались&lt;/div&gt;&lt;div&gt;автоматически при&lt;/div&gt;&lt;div&gt;восстановлении соединения&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="770" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-36" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-59" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="US_2&lt;div&gt;Как сотрудник склада я хочу видеть детали поставки чтобы понимать какие товары нужно принять&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="-60" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBFFEA;strokeColor=#82b366;shadow=1;" value="Цель 3 - Видеть расхождения" vertex="1">
+          <mxGeometry height="60" width="120" x="275" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-52" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="BkuoeZ50e4-eeGBDM2wB-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-47" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" value="Контроль расхождений" vertex="1">
+          <mxGeometry height="100" width="110" x="280" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-50" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="BkuoeZ50e4-eeGBDM2wB-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-62" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="US_5&lt;div&gt;Как сотрудник склада я хочу видеть товары с расхождениями чтобы оперативно их выявлять&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="240" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-51" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="BkuoeZ50e4-eeGBDM2wB-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-63" edge="1" parent="1" source="BkuoeZ50e4-eeGBDM2wB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="BkuoeZ50e4-eeGBDM2wB-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="US_6&lt;div&gt;Как сотрудник склада я хочу просматривать итоговую сводку приемки перед отправкой&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="350" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;fontSize=11;" value="Ценность для бизнеса&lt;div&gt;Сокращение времени на поиск и выбор поставки&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-135" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;fontSize=11;" value="Ценность для бизнеса&lt;div&gt;Снижает ошибки и ускоряет процесс приемки товаров&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;fontSize=11;" value="Ценность для бизнеса&lt;div&gt;Минимизация недостачи излишков&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;fontSize=11;" value="Ценность для бизнеса&lt;div&gt;Актуальные остатки и данные в учетной системе&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="BkuoeZ50e4-eeGBDM2wB-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;fontSize=11;" value="Ценность для бизнеса&lt;div&gt;Непрерывность работы скалда без простоев&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="585" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
